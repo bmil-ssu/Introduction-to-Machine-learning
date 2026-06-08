@@ -1,7 +1,7 @@
 # Introduction-to-Machine-learning
 2026년도 봄학기 - 기계학습개론
 
-성균관대학교 전자전기공학부 권민혜 교수 (Prof. Minhae Kwon)
+성균관대학교 전자전기공학부 [권민혜 교수 (Prof. Minhae Kwon)](https://brainmil.wordpress.com/minhae/)
 
 조교: 박희원, 박상은
 
