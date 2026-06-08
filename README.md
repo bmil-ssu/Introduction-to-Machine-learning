@@ -1,5 +1,7 @@
 # Introduction-to-Machine-learning
 기계학습개론
+성균관대학교 전자전기공학부 권민혜 교수 (Prof. Minhae Kwon)
+조교: 박희원, 박상은
 
 ## a. 준비
 1. [Google Colab](https://developers.google.com/colab) 접속 > Open Colab 클릭
